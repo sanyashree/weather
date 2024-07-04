@@ -25,3 +25,7 @@ let key = "0160f7c4a416ace398ef48326f7c28ce";
 1. index.html: The main HTML file for the app.
 2. style.css: Stylesheet for the app's design and layout.
 3. script.js: JavaScript file handling API calls and dynamic content updates.
+
+## 🎨 Screenshots
+
+<img width="1332" alt="weather_image1" src="https://github.com/sanyashree/weather/assets/149993907/801d8062-a073-4be1-8df1-9f1fefc9f648">
