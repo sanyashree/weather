@@ -33,3 +33,8 @@ let key = "0160f7c4a416ace398ef48326f7c28ce";
 <img width="1419" alt="weather_image2" src="https://github.com/sanyashree/weather/assets/149993907/cdc9e385-ac27-47ea-b63f-dbfa9f47e730">
 
 <img width="1416" alt="weather_image3" src="https://github.com/sanyashree/weather/assets/149993907/88ee0b69-c4e9-43a2-be67-d4d4ca7337a0">
+
+## 🌟 Acknowledgments
+OpenWeatherMap for providing the weather API.
+Google Fonts for the beautiful font "Poppins".
+
